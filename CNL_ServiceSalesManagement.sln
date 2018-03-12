@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Entities", "Domain.Entities\Domain.Entities.csproj", "{090963DF-1FA7-4F8D-8860-3DBA7623EE30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation.RealTimeNotificationServer", "Presentation.RealTimeNotificationServer\Presentation.RealTimeNotificationServer.csproj", "{F44647CE-85CD-4877-8059-048B57F9242B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation.ServiceRegistrationDesktopApp", "Presentation.ServiceRegistrationDesktopApp\Presentation.ServiceRegistrationDesktopApp.csproj", "{02649A35-7BC3-43CF-8AA7-0D87BEB2705C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{B17B3273-8366-4ABC-9566-B31A65E7042C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{0B047F00-85AC-45F3-8DEE-EBABBF76C8D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation.ServiceLegalAdvisorDesktopApp", "Presentation.ServiceLegalAdvisorDesktopApp\Presentation.ServiceLegalAdvisorDesktopApp.csproj", "{69BE68C1-145B-4DB5-93BB-3D426EE7D5E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{090963DF-1FA7-4F8D-8860-3DBA7623EE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090963DF-1FA7-4F8D-8860-3DBA7623EE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090963DF-1FA7-4F8D-8860-3DBA7623EE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090963DF-1FA7-4F8D-8860-3DBA7623EE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44647CE-85CD-4877-8059-048B57F9242B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44647CE-85CD-4877-8059-048B57F9242B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44647CE-85CD-4877-8059-048B57F9242B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44647CE-85CD-4877-8059-048B57F9242B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02649A35-7BC3-43CF-8AA7-0D87BEB2705C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02649A35-7BC3-43CF-8AA7-0D87BEB2705C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02649A35-7BC3-43CF-8AA7-0D87BEB2705C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02649A35-7BC3-43CF-8AA7-0D87BEB2705C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BE68C1-145B-4DB5-93BB-3D426EE7D5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BE68C1-145B-4DB5-93BB-3D426EE7D5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BE68C1-145B-4DB5-93BB-3D426EE7D5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BE68C1-145B-4DB5-93BB-3D426EE7D5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{090963DF-1FA7-4F8D-8860-3DBA7623EE30} = {0B047F00-85AC-45F3-8DEE-EBABBF76C8D0}
+		{F44647CE-85CD-4877-8059-048B57F9242B} = {B17B3273-8366-4ABC-9566-B31A65E7042C}
+		{02649A35-7BC3-43CF-8AA7-0D87BEB2705C} = {B17B3273-8366-4ABC-9566-B31A65E7042C}
+		{69BE68C1-145B-4DB5-93BB-3D426EE7D5E8} = {B17B3273-8366-4ABC-9566-B31A65E7042C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82CCAA0A-B536-44C4-806A-5F0B3C5253FD}
+	EndGlobalSection
+EndGlobal

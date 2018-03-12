@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>EjemploDeUso</title>
+    <script src="js/Jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/signalR.js"></script>
+    <script src="http://localhost:50840/signalr/hubs"></script>
+    <link rel="stylesheet" href="css/bootstrap.css">
+  </head>
+  <body>
+    <table id="EventTable" class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>DNI</th>
+                <th>Nombre</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+  </body>
+    <script>
+        
+        function addRowHtml(serviceEvent){
+            var rowHtml = createRowHtml(serviceEvent);
+            $('#EventTable > tbody:last-child').append(rowHtml);
+        }
+
+        function createRowHtml(serviceEvent){
+            return '<tr><td>'+serviceEvent.Id+'</td><td>'+serviceEvent.DNI+'</td><td>'+serviceEvent.ClientName+'</td></tr>';
+        }
+
+        $.connection.hub.url = 'http://localhost:50840/signalr';
+        var  hub  = $.connection.ServiceEvents;
+
+
+        hub.client.NewMessageRegistered = function(serviceEvent){
+            addRowHtml(serviceEvent);
+        }
+
+        $.connection.hub.start()
+                        .done(function(){ console.log('Now connected, connection ID=' + $.connection.hub.id); })
+                        .fail(function(error){ console.log(error); });
+
+    </script>
+</html>

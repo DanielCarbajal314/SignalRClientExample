@@ -1,0 +1,15 @@
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\bin\Debug\Presentation.ServiceLegalAdvisorDesktopApp.exe.config
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\bin\Debug\Presentation.ServiceLegalAdvisorDesktopApp.exe
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\bin\Debug\Presentation.ServiceLegalAdvisorDesktopApp.pdb
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\bin\Debug\Domain.Entities.dll
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\bin\Debug\Domain.Entities.pdb
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\obj\Debug\Presentation.ServiceLegalAdvisorDesktopApp.LegalAdvisorQueu.resources
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\obj\Debug\Presentation.ServiceLegalAdvisorDesktopApp.Properties.Resources.resources
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\obj\Debug\Presentation.ServiceLegalAdvisorDesktopApp.csproj.GenerateResource.Cache
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\obj\Debug\Presentation.ServiceLegalAdvisorDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\obj\Debug\Presentation.ServiceLegalAdvisorDesktopApp.exe
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceLegalAdvisorDesktopApp\obj\Debug\Presentation.ServiceLegalAdvisorDesktopApp.pdb

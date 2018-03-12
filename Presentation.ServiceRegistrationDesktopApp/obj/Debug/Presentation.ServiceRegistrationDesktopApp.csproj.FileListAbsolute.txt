@@ -1,0 +1,16 @@
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\bin\Debug\Presentation.ServiceRegistrationDesktopApp.exe.config
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\bin\Debug\Presentation.ServiceRegistrationDesktopApp.exe
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\bin\Debug\Presentation.ServiceRegistrationDesktopApp.pdb
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\bin\Debug\Domain.Entities.dll
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\bin\Debug\Domain.Entities.pdb
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\obj\Debug\Presentation.ServiceRegistrationDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\obj\Debug\Presentation.ServiceRegistrationDesktopApp.Properties.Resources.resources
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\obj\Debug\Presentation.ServiceRegistrationDesktopApp.csproj.GenerateResource.Cache
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\obj\Debug\Presentation.ServiceRegistrationDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\obj\Debug\Presentation.ServiceRegistrationDesktopApp.exe
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\obj\Debug\Presentation.ServiceRegistrationDesktopApp.pdb
+C:\Users\Daniel\Source\Repos\CNL_ServiceSalesManagement\Presentation.ServiceRegistrationDesktopApp\obj\Debug\Presentation.ServiceRegistrationDesktopApp.ServiceRegistrationForm.resources
